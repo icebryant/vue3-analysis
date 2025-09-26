@@ -1,0 +1,3 @@
+packages:
+  - 'packages/*'  # 所有子包
+  - 'scripts/*'   # 脚本目录

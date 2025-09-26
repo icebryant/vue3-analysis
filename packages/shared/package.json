@@ -1,0 +1,11 @@
+{
+  "name": "@vue/shared",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "module": "dist/index.mjs",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "rollup -c ../../scripts/rollup.config.js",
+    "dev": "rollup -c ../../scripts/rollup.config.js -w"
+  }
+}
